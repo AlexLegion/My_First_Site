@@ -185,8 +185,6 @@ line-height: 21px;
 }
 
 .about_team{display: flex;
-    height: 290px;
-    margin: 15px;
 }
 
 .at_item{width: 25%;
@@ -438,7 +436,48 @@ margin-left: 20px;
     background: url(../image/Bg6.jpg);
 
 }
-.line_color5{background-color: #b73c6d;}
+.line_color5{background-color: #b73c6d;
+}
+
+.reviews{
+    margin: 50px 20px 0px 20px;
+    width: 1140px;
+    height: 498px;
+}
+.rev_item{
+    width: 540px;
+    height: 210px;
+    background-color: #299ec5;
+    margin: 0px 10px 102px 10px;
+}
+.p_italic{
+    font-style: italic;
+}
+.left{margin-left: 125px;
+}
+.circle2{
+    width: 95px;    
+    height: 95px;
+    border-radius: 100px;
+    background-color: #878787;
+    margin-right: 492px;
+}
+
+.photo_2{position: absolute;
+    z-index: 1;
+    display: flex;
+}
+
+/* .img_p4{width: 1140px;
+    height: 778px;
+    margin-top: 62px;
+    text-transform: uppercase;
+    text-align: center;
+    }
+    
+    .col{float: left;
+    } */    
+
 
 /*Testimonials End*/
 
